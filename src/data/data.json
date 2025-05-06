@@ -1,0 +1,217 @@
+{
+  "Header": {
+    "title": "AL muaseron International Trending",
+    "paragraph": "Transforming spaces with elegance and expertise — Al-Muasron International Trading Company brings your vision to life with custom furniture solutions and unmatched craftsmanship rooted in Qatari excellence."
+  },
+  "About": {
+    "paragraph": "Al-Muasron International Trading Company  Leading Furniture & Local Industry Experts in Qatar Since 2005 With over 20 years of experience, Al-Muasron International Trading Company is a trusted name in furniture design and local industry in Qatar. We specialize in custom furniture solutions, crafting high-quality designs tailored to your unique preferences. Our expert team ensures premium craftsmanship and exceptional designs, providing you with a diverse selection to suit your style and needs. To enhance your experience, we offer specialized representatives who will assist you wherever you are. ",
+    "Why": [
+      "Every piece is made just for you.",
+      "Only the finest finishes and fabrics",
+      "Excellence in every detail",
+      "Designs that never go out of style"
+    ],
+    "Why2": [
+      "A legacy of trust and creativity.",
+      "End-to-End Service From concept to installation.",
+      "Local Expertise,Proudly rooted in Qatari design culture.",
+      " Dedicated Support,We bring the showroom to your doorstep."
+    ]
+  },
+  "Gallery": [
+    { 
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "Maya Assaf",
+      "job": "AI Engineer"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Zeinab Issa",
+      "job": "AI Engineer"
+    },
+    {
+      "img": "img/team/06.jpg",
+      "name": "Rahaf Al Mlhem",
+      "job": "Web Designer & Developer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Yomna Mohammed Srour",
+      "job": "Senior Der"
+    },
+   
+    {
+      "img": "img/team/04.jpg",
+      "name": "Shaza Alhajjar",
+      "job": "Graphics Designer"
+    },
+    {
+      "img": "img/team/05.jpg",
+      "name": "Seedra Alzoury",
+      "job": "Graphics Designer"
+    },
+    
+  
+    {
+      "img": "img/team/08.jpg",
+      "name": "Reinaa Attia",
+      "job": "Media Personality"
+    },
+    {
+      "img": "img/team/09.jpg",
+      "name": "George Issa",
+      "job": "Photographer & Vedio Editor"
+    },
+    {
+      "img": "img/team/10.jpg",
+      "name": "Waseem Assi",
+      "job": "Back_end Developer "
+    },
+    {
+      "img": "img/team/11.jpg",
+      "name": "Elissar Elias Isper ",
+      "job": "Media Personality"
+    }
+  ],
+  "Contact": {
+    "address": "4321 California St, San Francisco, CA 12345 ",
+    "phone": "+1 123 456 1234",
+    "email": "info@company.com",
+    "facebook": "https://www.facebook.com/share/19ygd7MQ5t/?mibextid=wwXIfr",
+    "tiktok": "https://www.tiktok.com/@almuasron?_t=ZS-8u9dy2wNxOi&_r=1",
+    "instagram": "https://www.instagram.com/almuasron_qatar?igsh=bDJxaXc2d2dpZXhx&utm_source=qr"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-home",
+      "title": "Bespoke Luxury Designs",
+      "text": "Exquisitely crafted furniture tailored to reflect your refined taste and modern lifestyle."
+    },
+    {
+      "icon": "fa fa-wrench",
+      "title": "Masterful Craftsmanship",
+      "text": "Superior quality and attention to detail by experienced artisans, ensuring timeless elegance."
+    }, 
+    {
+      "icon": "fa fa-lightbulb-o",
+      "title": "Qatari Heritage & Innovation",
+      "text": "Merging over 16 years of local expertise with contemporary design excellence."
+    },
+    {
+      "icon": "fa fa-star",
+      "title": "White-Glove Service",
+      "text": "Personalized, high-end customer support that brings our showroom experience directly to you."
+    }
+  ]
+}
