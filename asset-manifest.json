@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Al-Muaseron-Landing-page/static/css/main.ae42ac5f.css",
+    "main.js": "/Al-Muaseron-Landing-page/static/js/main.28830791.js",
+    "index.html": "/Al-Muaseron-Landing-page/index.html",
+    "main.ae42ac5f.css.map": "/Al-Muaseron-Landing-page/static/css/main.ae42ac5f.css.map",
+    "main.28830791.js.map": "/Al-Muaseron-Landing-page/static/js/main.28830791.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae42ac5f.css",
+    "static/js/main.28830791.js"
+  ]
+}
